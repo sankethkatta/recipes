@@ -1,10 +1,10 @@
-# Toasted Pumpkin Seed and Peach Salad
+# Summer Peach Salad
 
 ## Ingredients
 
 + 1 butter lettuce head
-+ crumbled feta cheese
-+ pumpkin seeds
++ 1/4 cup crumbled feta cheese
++ 1/4 cup pumpkin seeds
 + champagne vinigrette
 + 1-2 peaches or nectarines
 
