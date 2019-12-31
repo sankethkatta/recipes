@@ -1,4 +1,4 @@
-# Peach Feta Salad
+# Toasted Pumpkin Seed and Peach Salad
 
 ## Ingredients
 
