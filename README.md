@@ -1,5 +1,9 @@
 # Recipes
 
+## Appetizers
+
++ [Stuffed Mushrooms](appetizers/stuffed-mushrooms.md)
+
 ## Soups
 
 + [Simple Split Pea](soups/simple-split-pea-soup.md)
