@@ -4,6 +4,7 @@
 
 + [Stuffed Mushrooms](appetizers/stuffed-mushrooms.md)
 + [Orange Glazed Brussel Sprouts](appetizers/orange-glazed-brussel-sprouts.md)
++ [Roasted Chickpeas](appetizers/roasted-chickpeas.md)
 
 ## Soups
 
