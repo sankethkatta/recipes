@@ -15,3 +15,7 @@
 
 + [Summer Peach Salad](salads/summer-peach-salad.md)
 + [Winter Pear Salad](salads/winter-pear-salad.md)
+
+## Breads
+
++ [Banana Bread](breads/banana-bread.md)
