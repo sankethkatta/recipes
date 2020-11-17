@@ -19,3 +19,7 @@
 ## Breads
 
 + [Banana Bread](breads/banana-bread.md)
+
+## Mains
+
++ [King Trumpet Mushrooms](mains/king-trumpet-mushrooms.md)
