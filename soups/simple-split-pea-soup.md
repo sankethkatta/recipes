@@ -9,7 +9,7 @@
 + salt
 + black pepper
 + cayenne pepper
-+ 4 cups of water
++ 2.5 cups of water
 + clilantro (optional)
 
 ## Instructions
