@@ -8,7 +8,7 @@
 
 ## Soups
 
-+ [Simple Split Pea](soups/simple-split-pea-soup.md)
++ [Lemon Split Pea](soups/lemon-split-pea-soup.md)
 + [Lentil Chickpea](soups/lentil-chickpea-soup.md)
 
 ## Salads
