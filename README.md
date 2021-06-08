@@ -11,6 +11,10 @@
 + [Lemon Split Pea](soups/lemon-split-pea-soup.md)
 + [Lentil Chickpea](soups/lentil-chickpea-soup.md)
 
+## Sauces
+
++ [Peanut Satay Sauce](sauces/peanut-satay-sauce.md)
+
 ## Salads
 
 + [Summer Peach Salad](salads/summer-peach-salad.md)
