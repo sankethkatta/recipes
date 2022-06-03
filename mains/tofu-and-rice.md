@@ -49,6 +49,7 @@
 4. Place tofu on top of rice.
 5. Sprinkle chopped cilantro on top of dish.
 6. Serve sauce on the side for pouring over.
+7. Pour a glass of the broth on the side for drinking.
 
 ## Optional Items
 To expand this dish, try adding:
