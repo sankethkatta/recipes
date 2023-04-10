@@ -32,3 +32,4 @@
 + [Oven Roasted Cauliflower](mains/oven-roasted-cauliflower.md)
 + [Tofu & Rice](mains/tofu-and-rice.md)
 + [Impossible Bolognese](mains/impossible-bolognese.md)
++ [Pineapple Chile Verde Tofu](mains/pineapple-chile-verde-tofu.md)
