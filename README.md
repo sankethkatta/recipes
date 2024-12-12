@@ -46,7 +46,7 @@
 + [Oven Roasted Cauliflower](mains/oven-roasted-cauliflower.md)
 + [Soy Ginger Tofu & Rice](mains/tofu-and-rice.md)
 + [Impossible Bolognese](mains/impossible-bolognese.md)
-+ **TO UPDATE** [Pineapple Chile Verde Tofu](mains/pineapple-chile-verde-tofu.md)
++ [Pineapple Chile Verde Tofu](mains/pineapple-chile-verde-tofu.md)
 + **TODO** [Mango Tofu](mains/mango-tofu.md)
 + **TODO** [Butternut Squash Ravioli](mains/butternut-squash-ravioli.md)
 
