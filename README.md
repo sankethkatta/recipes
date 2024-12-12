@@ -20,7 +20,7 @@
 + [Lemon Split Pea](soups/lemon-split-pea-soup.md)
 + [Lentil Chickpea](soups/lentil-chickpea-soup.md)
 + [Cream of Mushroom](soups/cream-of-mushroom-soup.md)
-+ **Açorda** [Açorda](soups/acorda.md)
++ [Açorda](soups/acorda.md)
 
 ## Sauces
 
