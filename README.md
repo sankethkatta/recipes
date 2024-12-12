@@ -12,7 +12,7 @@
 + [Air Fryer Potatoes](appetizers/air-fryer-potatoes.md)
 + [Torched Peach Crostini](appetizers/torched-peach-crostini.md)
 + [Smoky Deviled Eggs](appetizers/smoky-deviled-eggs.md)
-+ **TODO** [Impossible Burger Puffs](appetizers/impossible-burger-puffs.md)
++ [Impossible Burger Puffs](appetizers/impossible-burger-puffs.md)
 + **TODO** [Mushroom Wellington Puffs](appetizers/mushroom-wellington-puffs.md)
 
 ## Soups

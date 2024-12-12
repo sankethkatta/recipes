@@ -25,7 +25,7 @@ Adapted from [Melissa Clark's Smoky Red Devil Eggs](https://cooking.nytimes.com/
 8. Peel and set aside the eggs.
 
 ### Filling
-1. Crush garlic into a paste using a knife or mortar and pestle. 
+1. Crush garlic into a paste using a knife or mortar and pestle.
 2. Mix in all other ingredients into a bowl and wisk together until smooth.
 3. Chop each egg in half and spoon yolks into a food processor.
 4. Pulse food processor until yolks look like wet sand and are fluffy/consistent.
