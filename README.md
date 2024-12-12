@@ -10,7 +10,7 @@
 + [Orange Glazed Brussel Sprouts](appetizers/orange-glazed-brussel-sprouts.md)
 + [Roasted Chickpeas](appetizers/roasted-chickpeas.md)
 + [Air Fryer Potatoes](appetizers/air-fryer-potatoes.md)
-+ **TODO** [Torched Peach Crostini](appetizers/torched-peach-crostini.md)
++ [Torched Peach Crostini](appetizers/torched-peach-crostini.md)
 + **TODO** [Smoky Deviled Eggs](appetizers/smoky-deviled-eggs.md)
 + **TODO** [Impossible Burger Puffs](appetizers/impossible-burger-puffs.md)
 + **TODO** [Mushroom Wellington Puffs](appetizers/mushroom-wellington-puffs.md)
