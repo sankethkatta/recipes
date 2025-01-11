@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-+ 2 cups flour
-+ 1/4 cup of sugar
-+ 1/2 cup of plain yogurt
-+ 1/8 cup of vegetable oil
++ 2 cups/240g flour
++ 0.25 cup/49.5g of sugar
++ 0.5 cup / 113.3g of plain yogurt
++ 0.125 cup/24.75g of vegetable oil
 + 4 bananas
 + 1 tsp vanilla extract
 + 1 tsp salt
