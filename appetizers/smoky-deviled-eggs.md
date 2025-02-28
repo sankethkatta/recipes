@@ -8,7 +8,7 @@ Adapted from [Melissa Clark's Smoky Red Devil Eggs](https://cooking.nytimes.com/
 + 0.25tsp kosher salt
 + 0.5cup/104g mayo
 + 2tbsp/32g tomato paste
-+ 2-4tsp red wine vinegar
++ 4tsp/18g red wine vinegar
 + 0.25tsp black pepper
 + 0.25tsp smoked paprika
 
