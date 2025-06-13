@@ -1,5 +1,9 @@
 # Recipes
 
+## Snacks
+
++ [Overnight Chia & Oats](snacks/overnight-chia-and-oats.md)
+
 ## Drinks
 
 + **TODO** [Wassail](drinks/wassail.md)
