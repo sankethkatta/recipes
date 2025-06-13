@@ -21,6 +21,7 @@
 + [Lentil Chickpea](soups/lentil-chickpea-soup.md)
 + [Cream of Mushroom](soups/cream-of-mushroom-soup.md)
 + [Açorda](soups/acorda.md)
++ [Egg Flower Soup](soups/egg-flower-soup.md)
 
 ## Sauces
 

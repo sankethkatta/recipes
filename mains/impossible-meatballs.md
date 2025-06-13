@@ -13,8 +13,8 @@
 
 ## Instructions
 
-+ Finely ciseler the red onion and garlic.
-+ Finely chop the cilantro (with stems), and parsely (just leaves).
-+ Mix together with impossible meat and spices.
-+ Form into 1-2 in meat balls and place on sheet tray.
-+ Place into 350 deg F oven for ~30 minutes.
+1. Finely ciseler the red onion and garlic.
+2. Finely chop the cilantro (with stems), and parsely (just leaves).
+3. Mix together with impossible meat and spices.
+4. Form into 1-2 in meat balls and place on sheet tray.
+5. Place into 350 deg F oven for ~30 minutes.
