@@ -47,7 +47,7 @@
 + [Soy Ginger Tofu & Rice](mains/tofu-and-rice.md)
 + [Impossible Bolognese](mains/impossible-bolognese.md)
 + [Pineapple Chile Verde Tofu](mains/pineapple-chile-verde-tofu.md)
-+ **TODO** [Mango Tofu](mains/mango-tofu.md)
++ [Mango Tofu](mains/mango-tofu.md)
 + **TODO** [Butternut Squash Ravioli](mains/butternut-squash-ravioli.md)
 + **TODO** [Ras-al-Hanout Rice](mains/ras-al-hanout-rice.md)
 
