@@ -31,7 +31,7 @@
 
 + [Peanut Satay Sauce](sauces/peanut-satay-sauce.md)
 + [Honey Mustard Vinaigrette](sauces/honey-mustard-vinaigrette.md)
-+ **TODO** UPDATE [Muhammara](sauces/muhammara.md)
++ [Muhammara](sauces/muhammara.md)
 + **TODO** [Pesto](sauces/pesto.md)
 + **TODO** [Quick Cherry Tomato Sauce](sauces/cherry-tomato-sauce.md)
 + **TODO** [Oven Roasted Tomato & Red Pepper Sauce](sauces/oven-roasted-tomato-red-pepper-sauce.md)

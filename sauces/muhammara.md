@@ -1,14 +1,14 @@
 # Muhammara
 
 ## Ingredients
-+ 1 red bell pepper
-+ 1 cup chopped green onions
-+ 1 tsp salt
-+ 1 tsp ground cumin
-+ 2.5 tbsp/17g pomogranate molasses
-+ 0.75cup/62.5g walnuts lightly toasted
-+ 1 tsp lemon juice
-+ 40-42g olive oil
++ 2 red bell pepper
++ 2cup/70g chopped green onions
++ 2 tsp salt
++ 2 tsp ground cumin
++ 5 tbsp/34g pomogranate molasses
++ 1.5cup/125g walnuts lightly toasted
++ 2 tsp lemon juice
++ 82g olive oil
 
 ## Instructions
 1. Pre-Heat oven to 400 degrees.
