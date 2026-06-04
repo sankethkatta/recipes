@@ -2,20 +2,23 @@
 
 ## Ingredients
 
+### Sauce
 + 3 cloves garlic
 + 1/4 yellow onion
 + 2-3 stalks green onion
 + .5in knob ginger
 + 1 cup vegetable broth
++ 1 tsp black pepper
 + 60g soy sauce (5 tbsp)
 + 12g granulated sugar (1 tbsp)
 + .5 tsp MSG
++ 7g potato starch
+
+### Tofu
 + 20g potato starch
 + 20g corn starch
 + 1 block tofu
 + 1 egg
-+ 7g potato starch
-+ 2 tsp black pepper
 
 ## Instructions
 
