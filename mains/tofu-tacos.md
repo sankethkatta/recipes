@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-+ [Tofu for Tacos](mains/tofu-for-tacos.md)
-+ [Mango Morita Salsa](sauces/mango-morita-salsa.md)
++ [Tofu for Tacos](/mains/tofu-for-tacos.md)
++ [Mango Morita Salsa](/sauces/mango-morita-salsa.md)
 + cheddar cheese
 + Tortillas (guerrero riquisimas)
 
