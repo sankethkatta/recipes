@@ -33,6 +33,7 @@
 + [Honey Mustard Vinaigrette](sauces/honey-mustard-vinaigrette.md)
 + [Muhammara](sauces/muhammara.md)
 + [Pesto](sauces/pesto.md)
++ [Mango Morita Salsa](sauces/mango-morita-salsa.md)
 + **TODO** [Quick Cherry Tomato Sauce](sauces/cherry-tomato-sauce.md)
 + **TODO** [Oven Roasted Tomato & Red Pepper Sauce](sauces/oven-roasted-tomato-red-pepper-sauce.md)
 
@@ -55,6 +56,8 @@
 + [Mango Tofu](mains/mango-tofu.md)
 + [Lemon Pepper Tofu](mains/lemon-pepper-tofu.md)
 + [Black Pepper Tofu](mains/black-pepper-tofu.md)
++ [Tofu for Tacos](mains/tofu-for-tacos.md)
++ [Tofu Tacos](mains/tofu-tacos.md)
 + [Impossible Meatballs](mains/impossible-meatballs.md)
 + **TODO** [Butternut Squash Ravioli](mains/butternut-squash-ravioli.md)
 + **TODO** [Ras-al-Hanout Rice](mains/ras-al-hanout-rice.md)
